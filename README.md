@@ -14,4 +14,5 @@ A customized tool for dataset Annotation labels `upper arms, forearm and hands`,
 * `n` -> next annotation component(upper arms, forearm and hands)
 * `s` -> save the annotation files
 * `shift` -> draw vertical or horizontal line(it should be pressed during drawing process)
-* left click for tag one point, right click for undo for current component
+* `left click` for tag one point
+* `right click` for undo previous tag for current component
