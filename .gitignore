@@ -1,0 +1,10 @@
+# Compiled source #
+###################
+bin
+*.class
+
+# eclipse generated files #
+###########################
+.settings
+.classpath
+.project
